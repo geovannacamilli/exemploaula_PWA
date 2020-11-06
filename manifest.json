@@ -1,0 +1,9 @@
+{
+    "name": "Buscador de Código Postal",
+    "short_name": "Busca CEP",
+    "start_url": "findCEP.html",
+    "theme-color": "#1e90ff",
+    "background-color": "#fff",
+    "display": "fullscreen",
+    "orientation": "any"
+}
